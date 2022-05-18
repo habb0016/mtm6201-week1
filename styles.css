@@ -1,0 +1,9 @@
+body {
+    background-color: darkcyan;
+    color: White;
+}
+img{
+    border: 4px white solid;
+    width: 30%;
+    height: auto;
+}
